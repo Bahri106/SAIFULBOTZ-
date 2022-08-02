@@ -44,9 +44,9 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // Wajib diisi ya kak!, kalo ga punya biarin aja, biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/xinzuo_bot'
-global.sgh = 'https://github.com/Denzz'
-global.sgc = 'https://chat.whatsapp.com/D8myLoppX2HJPHVzvKbxCa'
+global.sig = 'https://www.instagram.com/invites/contact/?i=1vprvib78vnqy&utm_content=njj67bk'
+global.sgh = 'https://github.com/Bahri106'
+global.sgc = 'https://chat.whatsapp.com/ECeHsVtDpNF7NgzDLMAzcM'
 global.sdc = " "
 global.snh = 'https://nhentai.net/g/365296/'
 
@@ -59,17 +59,17 @@ global.ppulsa2 = '081336990781'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281228088732'
-global.nomorown = '6285642625763'
-global.namebot = 'Xinzuo_XBOT'
-global.nameown = 'Denzz'
+global.nomorbot = '6285853570297'
+global.nomorown = '6285707645429'
+global.namebot = 'SAIFUL-TZY'
+global.nameown = 'Saiful'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281391337455'],
-  ['6285642625763'],
-  ['6285642625763', 'ᴅenzz', true]
+  ['6285707645429'],
+  ['6285707645429'],
+  ['6285707645429', 'Saiful', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -114,12 +114,12 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Xinzuo BOT あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Denzz X Xinzuo˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm = '                「 Saiful-Tzyあ⁩ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘SAIFUL-TZY˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 global.wm3 = '⫹⫺ xinzuo 𝗕𝗢𝗧'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '${uptime} ┊ Xinzuo Beta'
+global.titlebot = '🌱SAIFUL-TZY┊ Beta Version🍁'
 global.author = global.wm
 
 
@@ -173,7 +173,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = 'create'
-global.stickauth = '☂︎xinzuo'
+global.stickauth = '☂︎ Saiful-Tzy'
 
 global.multiplier = 38 // The higher, The harder levelup
 
