@@ -51,12 +51,12 @@ global.sdc = " "
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085334930628'
-global.povo = '085712420674'
-global.pgopay = '085712420674'
-global.ppulsa = '085334930628'
-global.ppulsa2 = '081336990781'
-global.psaweria = '-'
+global.pdana = '085707645429'
+global.povo = '085707645429'
+global.pgopay = '085707645429'
+global.ppulsa = '085707645429'
+global.ppulsa2 = '085707645429'
+global.psaweria = '085707645429'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6285853570297'
