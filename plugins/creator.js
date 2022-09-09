@@ -13,7 +13,7 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 📮 *Note:*
 • Owner tidak menerima save contact
 • Owner berhak blockir tanpa alasan
-• Berbicaralah yang sopan & tidak spam(melanggar gua bantai) 
+• Berbicaralah yang sopan & tidak spam
 • Owner Hanya merespon yang berkaitan dengan BOT
 • No Telp`
 
@@ -22,10 +22,10 @@ let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').
 let teksbio = `${htki} *BIODATA* ${htka}
 *ɴᴀᴍᴇ:* SAIFUL BAHRI
 *ᴀɢᴇ:* 17ᵗʰ
-*sᴛᴀᴛᴜs:* Private 
+*sᴛᴀᴛᴜs:* privat
 
-*ʙɪʀᴛʜᴅᴀʏ:* 4 Apr 2005
-*ᴀᴅᴅʀᴇss:* Indonesia, Jawa Timur, Jember
+*ʙɪʀᴛʜᴅᴀʏ:* 04 april 2005
+*ᴀᴅᴅʀᴇss:* Indonesia, Jawa Timur, jember
 
 *- - sᴋɪʟʟs: - -* 
 > JavaScript [89.7%]
@@ -73,7 +73,7 @@ const listMessage = {
           conn.reply(m.chat, teksnomor, m, { contextInfo: { mentionedJid: [nowner] }})
             break
             case 'bio':
-          conn.sendHydrated(m.chat, teksbio, wm, ppown, "wa.me/" + nomorown, "💬 ᴄʜᴀᴛs", null,null, [["ᴅᴏɴᴀsɪ", '.donasi'], [null, null],[null,null]], m)
+          conn.sendHydrated(m.chat, teksbio, wm, ppown, "wa.me/" + nomorown, "❤ ᴄʜᴀᴛs", null,null, [["ᴅᴏɴᴀsɪ", '.donasi'], [null, null],[null,null]], m)
             break
             
           default:
